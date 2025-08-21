@@ -180,7 +180,7 @@ p.note { display: none; }
 <h2><span class="yellow">20日、見事に晴れ渡りました</span></h2>
 <a href="20250821_008.JPG" target="_blank"><img src="20250821_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">壁の向こうはただの池かと思いきや、個人所有の敷地で噴水も見事</span></h2>
+<h2><span class="yellow">壁の向こうはただの池かと思いきや、個人所有の敷地で噴水も見事<br>画像クリックで動画再生します↓</span></h2>
 <a href="20250820_001.MOV" target="_blank"><img src="20250820_001.png" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">住宅街のお花も陽射しを浴びて満面の笑み</span></h2>
